@@ -8,7 +8,7 @@
 body {
   font-family: Arial, sans-serif;
   color: #333;
-  background-color: #fff; /* black background */
+  background-color: #fff; /* black */
 }
 
 header {
@@ -27,7 +27,7 @@ header .social-links {
 }
 
 header .social-links a {
-  color: #C3FF83; /* white */
+  color: #C3FF83; /* Lime Green */
   margin: 0 15px;
   text-decoration: none;
   font-size: 1.2rem;
@@ -72,7 +72,7 @@ header .social-links a {
 .price {
   font-size: 1.6rem;  /* Bigger price font */
   font-weight: bold;
-  color: #C3FF83;  /* white */
+  color: #C3FF83;  /* Lime Green */
   margin-top: 10px;
 }
 
