@@ -38,7 +38,7 @@ header .social-links a {
   justify-content: space-between; /* Space out the services evenly */
   gap: 30px; /* Space between each service */
   padding: 50px 20px;
-  background-color: #f9f9f9;  /* Lighter background */
+  background-color: #f9f9f9;  /* Darker background */
   flex-wrap: wrap; /* Allow items to wrap on smaller screens */
 }
 
